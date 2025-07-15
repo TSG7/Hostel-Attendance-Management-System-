@@ -227,7 +227,7 @@ const FaceRecognition = () => {
   return (
     <section className="w-full">
       <h1 className="head_text text-center">
-        <span className="blue_gradient">Face Recognition Attendance</span>
+        <span className="blue_gradient text-5xl font-bold">Face Recognition Attendance</span>
       </h1>
       <div className="faceRecognitionContainer">
         <div className="faceRecognitionCard">
